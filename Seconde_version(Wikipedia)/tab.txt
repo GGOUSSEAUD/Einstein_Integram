@@ -1,0 +1,7 @@
+0 pays    anglais   espagnol  islandais norvegien  slovène
+1 couleur rouge     verte     blanche   jaune      bleue
+2 animal  chien     ane       renard    cheval     zebre
+3 metier  ingenieur sculpteur diplomate medecin    violoniste
+4 boisson cafe      lait      the       jus        eau
+5 rang    gauche    m-g       milieu    m-d        droite
+  num     0         1         2         3          4

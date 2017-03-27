@@ -1,0 +1,7 @@
+0 pays    anglais   suédois   danois    norvegien  allemand
+1 couleur rouge     verte     blanche   jaune      bleue
+2 animal  chiens    oiseaux   chats     cheval     poisson
+3 boisson the       cafe      lait      bière      eau
+4 fume    Pall Mall Dunhill   Blend     BlueMaster prince
+5 rang    gauche    m-g       milieu    m-d        droite
+  num     0         1         2         3          4

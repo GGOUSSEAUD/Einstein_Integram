@@ -1,0 +1,23 @@
+0 pays    anglais espagnol  japonais  italien    norvegien
+1 couleur rouge   verte     blanche   jaune      bleue
+2 animal  chien   escargots renard    cheval     chat
+3 metier  peintre sculpteur diplomate violoniste medecin
+4 boisson the     cafe      lait      jus        vin
+5 rang    gauche  m-g       milieu    m-d        droite
+  num     0        1         2         3         4
+
+Les numéros à gauche sont la place dans le tableau, exemple:
+[0,4,3,2,4,0]
+
+Anglais dans la maison bleue avec un cheval, il est diplomate, boit du vin et sa maison se trouve tout à gauche (numéro 0).
+
+Les conditions de quartiers s'organise quelque peu différament:
+[info1,mouvement,info2,rang_info1,rang_info2]
+
+-Info 1: Tout simplement un info tel que anglais ou thé (pareil pour info 2 sauf que info 1 est prioritaire).
+-Mouvement: 0=à droite
+	    1=à gauche
+	    2=voisin
+-rang_info1/2: Rang correspondant à l'info 1 et 2, nous permettant de savoir si info1 est une boisson,une nationalité ou un animal par exemple.
+
+[0,2,2,0,3]:L'anglais est à coté/ou voisin du diplomate.
